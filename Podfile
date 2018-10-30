@@ -6,6 +6,5 @@ target 'ChromecastSample' do
   use_frameworks!
 
   # Pods for ChromecastSample
-  pod 'google-cast-sdk', '4.3.1'
 
 end
